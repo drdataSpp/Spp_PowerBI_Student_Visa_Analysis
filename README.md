@@ -23,8 +23,9 @@ Rejection % = 1 - [#"Approval %"]
 
 ## Built with
 
-[Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Business analytics service by Microsoft
-[Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Spreadsheet developed by Microsoft
+[Microsoft Power BI](https://powerbi.microsoft.com/en-us/) - Business analytics service by Microsoft.
+
+[Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - Spreadsheet developed by Microsoft.
 
 ## Credits & Acknowledgments
 
